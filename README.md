@@ -1,2 +1,3 @@
-# Summer_Project
-A project that helps to track your fitness and show the analysis
+## Data Science Project Template
+
+You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
